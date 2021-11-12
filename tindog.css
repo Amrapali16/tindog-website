@@ -1,0 +1,172 @@
+.container-center
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.center-row
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10%;
+}
+.align-left
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+h1
+{
+    font-weight: 300;
+    font-size: 40px;
+    letter-spacing: 2px;
+    
+}
+ul li
+{
+    list-style: none;
+    margin: 0 8px;
+    display: inline-block;
+    line-height: 80px;
+}
+ul li a
+{
+    text-decoration: none;
+    color: yellow;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+#header-area
+{
+
+    width:100%;
+    height:70vh;
+    background-color: #207daf;
+    background-position: center;
+    background-size: cover;
+}
+#header-area nav
+{
+    height: 10%;
+    width:80%;
+}
+nav .logo
+{
+    color: deeppink;
+}
+nav a 
+{
+    
+    margin: 0 20px;
+}
+nav a:hover
+{
+    color: violet;
+}
+.landing_content
+{
+    height:70%;
+    width:80%;
+}
+.download-button
+{
+    margin: 5% 3% 5% 0;
+}
+    
+.photo
+{
+    height: 300px;
+    width: 60%;
+    position: absolute;
+    left:59%;
+    margin-top: 20px;
+}
+.pugg-dog
+{
+    border-radius: 100%;
+}
+.white-section
+{
+    margin-top: 7%;
+    margin-left: 6%;
+    text-align: center;
+}
+.three-box
+{
+    color:rgb(228, 39, 77)
+}
+.three-icon
+{
+    color: black;
+}
+
+    
+
+.regular
+{
+    background-color:#ef8172;
+    height: 50vh;
+    margin-top: 5%;
+    text-align: center;
+
+}
+.next-part
+{
+    margin-left: 20px;
+}
+.text-heading
+{
+    color: green;
+    font-size: 1.9rem;
+    font-family:sans-serif;
+    margin: 50px;
+    margin-left: 50px;
+}
+.dog-img
+{
+    border-radius: 100%;
+    width: 20%;
+    
+}
+.card
+{
+    color: #ff4c68;
+}
+
+  #press 
+  {
+    background-color:rgb(14, 14, 66);
+    padding-bottom: 3%;
+    padding-left: 15%;
+    padding-top: 5%;
+  }
+  
+  
+.press-logo {
+    margin-left: 30%;
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+  #pricing 
+  {
+    margin-top: -3%;
+    padding: 100px;
+    padding-left: 10px;
+    
+  }
+  
+  .colored 
+  {
+      margin-top: 7%;
+      font-family: sans-serif;
+  }
+  .colored1
+  {
+
+    margin: 5% 3% 5% 0;
+  }
